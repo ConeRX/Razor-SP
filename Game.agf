@@ -7366,7 +7366,7 @@
                     <Image>335</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
-                    <Sound>0</Sound>
+                    <Sound>120</Sound>
                   </ViewFrame>
                 </Frames>
               </Loop>
